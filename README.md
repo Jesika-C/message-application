@@ -1,7 +1,7 @@
 ABOUT
 
 Role
-Lead Programmer collaborating with group of 3
+- Lead Programmer collaborating with group of 3
 
 Description
 - Uses computer port 1234 to be able to interact locally between one host and a client using a text chat
